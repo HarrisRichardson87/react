@@ -1,0 +1,19 @@
+.App {
+  font-family: 'Maiden Orange', cursive;
+  margin: auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.card{
+  border: solid red 2px;
+  width:25%;
+  align-self: center;
+}
+img{
+  width:10%;
+  align-self: center;
+  margin:auto;
+  display: flex;
+}
